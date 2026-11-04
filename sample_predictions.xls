@@ -1,0 +1,5 @@
+message,prediction,spam_probability,confidence
+Congratulations! You have won a free prize.,Spam,0.739751935005188,0.739751935005188
+"Hi, are we meeting at college tomorrow?",Ham,4.130183515371755e-05,0.9999586981648463
+Claim your cash reward today.,Ham,0.10483698546886444,0.8951630145311356
+Please send me the notes.,Ham,0.0006961516919545829,0.9993038483080454
